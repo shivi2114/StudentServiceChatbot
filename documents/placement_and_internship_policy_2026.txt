@@ -1,0 +1,32 @@
+================================================================================
+CAMPUS TRAINING & PLACEMENT POLICY (ACADEMIC YEAR 2026-2027)
+TRAINING & PLACEMENT CELL (T&P)
+================================================================================
+
+1. PLACEMENT ELIGIBILITY TIERS
+1.1 Tier 1 (Dream Companies / CTC > 10 LPA):
+    - Minimum Cumulative Grade Point Average (CGPA) of 7.50 with no history of active backlogs.
+    - Mandatory 80%+ attendance in Pre-Placement Training (PPT) sessions.
+1.2 Tier 2 (Core Engineering / CTC 6 to 10 LPA):
+    - Minimum CGPA of 6.50 and no more than 1 dead backlog cleared previously.
+1.3 Tier 3 (Mass Recruiters / IT Services / CTC 3.5 to 5.5 LPA):
+    - Minimum CGPA of 6.00 or 60% in 10th, 12th, and B.Tech.
+
+2. ONE STUDENT, ONE JOB OFFER POLICY
+2.1 Once a student receives an offer letter from any visiting recruiter, their registration is frozen for all companies in the same or lower tier.
+2.2 Exception (Super Dream Upgradation):
+    - A student placed in Tier 2 or Tier 3 is eligible to appear for Super Dream companies offering CTC >= INR 14.0 LPA (minimum 100% CTC increment).
+
+3. SEMESTER INTERNSHIP GUIDELINES (8TH SEMESTER)
+3.1 Students securing 6-month industry internships must obtain a formal No Objection Certificate (NOC) from the T&P Cell and Head of Department.
+3.2 Fortnightly attendance and work log must be attested by the company industrial mentor.
+
+4. UPCOMING RECRUITMENT DRIVES (FALL 2026)
+- TCS Digital / Ninja Drive: 1st December 2026 (Eligibility: CGPA >= 7.0)
+- Cognizant GenC Next: 10th December 2026 (Eligibility: CGPA >= 6.5)
+- Infosys Specialist Programmer: 18th December 2026 (Eligibility: CGPA >= 7.5)
+
+5. T&P CELL OFFICE
+- Head of Placements: Dr. R. K. Saxena
+- Location: Placement Complex, Block C, Ground Floor
+- Email: placements@campusai.edu | Phone: Ext. 402
