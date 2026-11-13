@@ -1,9 +1,19 @@
 # Stage 1: Build React Frontend
 FROM node:20-alpine AS frontend-builder
 WORKDIR /app/frontend
+
 COPY frontend/package*.json ./
 RUN npm install
-COPY frontend ./
+
+# Copy only source files needed for build (never copies local node_modules)
+COPY frontend/src ./src
+COPY frontend/index.html ./
+COPY frontend/vite.config.js ./
+COPY frontend/tailwind.config.js ./
+COPY frontend/postcss.config.js ./
+
+# Ensure binaries have execution permissions
+RUN chmod -R +x node_modules/.bin
 RUN npm run build
 
 # Stage 2: Python Backend + Static Hosting
